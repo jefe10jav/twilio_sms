@@ -1,6 +1,6 @@
 <?php
 
-$ACCOUNT_SID = '';
-$AUTH_TOKEN  = '';
+$ACCOUNT_SID = 'AC81f53a22ad9741db3f3fa3b35b5ef23c';
+$AUTH_TOKEN  = 'a12ea4a9a35df2802cf894d089b3c508';
 
 ?>
